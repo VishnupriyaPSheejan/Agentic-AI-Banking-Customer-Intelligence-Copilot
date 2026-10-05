@@ -1,0 +1,1 @@
+Customer-facing AI should explain its reasoning, cite supporting information and route uncertain or high-impact decisions to a human colleague.

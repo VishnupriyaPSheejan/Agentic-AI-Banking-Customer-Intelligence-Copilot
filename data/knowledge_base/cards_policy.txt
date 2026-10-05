@@ -1,0 +1,1 @@
+Card recommendations should consider customer spending patterns, eligibility, affordability and responsible credit usage. Avoid recommending additional credit solely because utilization is already high.

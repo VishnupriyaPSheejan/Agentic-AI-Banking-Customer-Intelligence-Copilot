@@ -1,0 +1,31 @@
+{
+  "tests": 5,
+  "critic_pass_rate": 1.0,
+  "cases": [
+    {
+      "question": "customer credit card recommendation",
+      "evidence_retrieved": 3,
+      "critic_passed": true
+    },
+    {
+      "question": "loan affordability and existing obligations",
+      "evidence_retrieved": 3,
+      "critic_passed": true
+    },
+    {
+      "question": "savings eligibility",
+      "evidence_retrieved": 3,
+      "critic_passed": true
+    },
+    {
+      "question": "investment suitability",
+      "evidence_retrieved": 3,
+      "critic_passed": true
+    },
+    {
+      "question": "customer service AI explanation",
+      "evidence_retrieved": 3,
+      "critic_passed": true
+    }
+  ]
+}
